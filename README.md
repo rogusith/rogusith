@@ -12,10 +12,10 @@
 
 ```
 [
-  'programmingLanguages' => ['PHP', 'JavaScript (AJAX, jQuery)'],
-  'frameworks' => ['Laravel', 'Symfony', 'Leaf PHP'],
+  'programmingLanguages' => ['PHP', 'JavaScript'],
+  'frameworks' => ['Laravel', 'Symfony'],
   'databases' => ['MongoDB', 'PostgreSQL', 'MySQL'],
-  'testingFramework' => ['PHPUnit', 'PHPStan'],
-  'other' => ['Sphinx', 'Memecashed', 'AWS Stack', 'Postman', 'Docker', 'CircleCI'],
+  'testingFrameworks' => ['PHPUnit', 'Codeception', 'PHPStan'],
+  'other' => ['Sphinx', 'Memecashed', 'Datadog', 'Google Cloud Platform', 'Postman', 'Swagger', 'Docker', 'CircleCI', 'Ansible'],
 ]
 ```
